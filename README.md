@@ -1,2 +1,0 @@
-# CrazyGlider
-Policies and Terms
