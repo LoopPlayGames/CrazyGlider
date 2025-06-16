@@ -43,6 +43,6 @@ Depending on your location, you may have rights such as:
 7. Changes to This Privacy Policy 
 We may update this Privacy Policy from time to time. Updates will be posted here. Continued use of the Game means your accept the changes.
 
-Contact Us:
-Loop Play Games
-loopplaygs@gmail.com
+#### Contact Us:
+#### Loop Play Games
+#### loopplaygs@gmail.com
