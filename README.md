@@ -3,7 +3,7 @@ Effective Date: 11.07.2025
 
 Thank you for playing Crazy Glider. Your privacy is important to us. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile game.
 
-1. Information we collect
+#### 1. Information we collect
    
 Our Unity Leaderboards feature collects player-related data including a unique player ID and the scores or rankings submitted during gameplay. This data helps provide personalized leaderboard experiences and is stored securely.
    
@@ -26,7 +26,7 @@ We use thirt-party advertising services that may collect and use your data to sh
 - Ad engagement data (views, taps, durations)
 - App usage times
 
-2. How We Use Your Information
+#### 2. How We Use Your Information
    
 We use the collected information to:
 - Operate and improve the Game,
@@ -34,33 +34,33 @@ We use the collected information to:
 - Analyze gameplay trends and improve user experience,
 - Comply with legal obligations.
 
-3. Third-Party Advertising and Analytics
+#### 3. Third-Party Advertising and Analytics
    
 We may share limited data with third-party services for advertising and analytics. These partners may use cookies or mobile identifiers to personalize ads and measure effectiveness.
 Each advertising service has its own privacy policy which you should review.
 - Unity: https://unity.com/legal/game-player-and-app-user-privacy-policy
 - Google AdMob: https://policies.google.com/privacy
 
-4. Data Retention
+#### 4. Data Retention
    
 We retain your data only as long as necessary for the purposes outlined in this policy. Non-personal data used for analytics may be kept longer in anonymized form.
 
-5. Children's Privacy
+#### 5. Children's Privacy
    
 Our game is not intended for children under the age of 13 (or the equivalent age in your jurisdiction). If we learn that we have unintentionally collected personal data from a child, we will take steps to delte it.
 
-6. Your Rights
+#### 6. Your Rights
    
 Depending on your location, you may have rights such as:
 - Accessing your data,
 - Requesting deletion,
 - Opting out of data collection for advertising.
 
-7. Changes to This Privacy Policy
+#### 7. Changes to This Privacy Policy
    
 We may update this Privacy Policy from time to time. Updates will be posted here. Continued use of the Game means your accept the changes.
 
-8. User Data Deletion:
+#### 8. User Data Deletion:
     
 For now, all deletion requests are processed manually. Please email loopplaygs@gmail.com to initiate a deletion.
 You will receive a confirmation email of the deletion upon completion.
