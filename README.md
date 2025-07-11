@@ -48,7 +48,7 @@ We retain your data only as long as necessary for the purposes outlined in this 
 
 #### 5. Children's Privacy
    
-Our game is not intended for children under the age of 13 (or the equivalent age in your jurisdiction). If we learn that we have unintentionally collected personal data from a child, we will take steps to delte it.
+Our game is not intended for children under the age of 13 (or the equivalent age in your jurisdiction). If we learn that we have unintentionally collected personal data from a child, we will take steps to delete it.
 
 #### 6. Your Rights
    
