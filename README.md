@@ -70,6 +70,7 @@ For now, all deletion requests are processed manually. Please email loopplaygs@g
 You will receive a confirmation email of the deletion upon completion.
 
 
-#### Contact Us:
-#### Loop Play Games
-#### loopplaygs@gmail.com
+# Contact Us:
+
+Loop Play Games
+email: loopplaygs@gmail.com
