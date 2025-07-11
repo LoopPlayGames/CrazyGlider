@@ -16,8 +16,8 @@ a) Automatically Collected Data
 - Account ID
 - Device ID
 - Crash logs and performance data.
-b) Advertising-Related Data
-
+  
+b) Advertising-Related Data. 
 We use thirt-party advertising services that may collect and use your data to show personalized ads. This may include:
 - Ad ID
 - App‑set ID
@@ -60,7 +60,11 @@ Depending on your location, you may have rights such as:
    
 We may update this Privacy Policy from time to time. Updates will be posted here. Continued use of the Game means your accept the changes.
 
-#### 8. User Data Deletion:
+#### 8. Data Security and Encryption
+
+All data collected by our app, including information gathered through integrated SDKs and services, is transmitted securely using industry-standard encryption protocols (such as TLS). This ensures that your data is encrypted in transit and protected from unauthorized access during communication between your device and our servers.
+
+#### 9. User Data Deletion:
     
 For now, all deletion requests are processed manually. Please email loopplaygs@gmail.com to initiate a deletion.
 You will receive a confirmation email of the deletion upon completion.
