@@ -17,7 +17,8 @@ a) Automatically Collected Data
 - Device ID
 - Crash logs and performance data.
   
-b) Advertising-Related Data. 
+b) Advertising-Related Data
+
 We use thirt-party advertising services that may collect and use your data to show personalized ads. This may include:
 - Ad ID
 - App‑set ID
