@@ -45,11 +45,11 @@ Each advertising service has its own privacy policy which you should review.
    
 We retain your data only as long as necessary for the purposes outlined in this policy. Non-personal data used for analytics may be kept longer in anonymized form.
 
-6. Children's Privacy
+5. Children's Privacy
    
 Our game is not intended for children under the age of 13 (or the equivalent age in your jurisdiction). If we learn that we have unintentionally collected personal data from a child, we will take steps to delte it.
 
-8. Your Rights
+6. Your Rights
    
 Depending on your location, you may have rights such as:
 - Accessing your data,
@@ -60,7 +60,7 @@ Depending on your location, you may have rights such as:
    
 We may update this Privacy Policy from time to time. Updates will be posted here. Continued use of the Game means your accept the changes.
 
-9. User Data Deletion:
+8. User Data Deletion:
     
 For now, all deletion requests are processed manually. Please email loopplaygs@gmail.com to initiate a deletion.
 You will receive a confirmation email of the deletion upon completion.
